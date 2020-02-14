@@ -1,0 +1,23 @@
+{
+  "name": "tsl",
+  "version": "0.1.0",
+  "description": "Translate",
+  "main": "main.js",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evnseyed/puppeteer-example.git"
+  },
+  "author": "Evn Sey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evnseyed/puppeteer-example/issues"
+  },
+  "homepage": "https://github.com/evnseyed/puppeteer-example#readme"
+}
